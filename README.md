@@ -99,8 +99,3 @@ EMAIL_HOST_PASSWORD=your-email-password
 
 ---
 
-<<<<<<< HEAD
-## Contact
-For any issues, contact the repository owner.
-=======
->>>>>>> e62e2cf4d7691b1b6cb21d36c78541980e1cc855
